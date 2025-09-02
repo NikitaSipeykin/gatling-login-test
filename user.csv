@@ -1,4 +1,11 @@
-username,password
-testuser1,pass1
-testuser2,pass2
-testuser3,pass3
+guest_id,guest_id_type,business_unit,model_type,limit
+10001,uuid,finance,baseline,10
+10002,uuid,finance,baseline,20
+10003,uuid,finance,baseline,30
+10004,uuid,finance,baseline,40
+10005,uuid,insurance,advanced,50
+10006,uuid,insurance,advanced,60
+10007,uuid,insurance,advanced,70
+10008,uuid,insurance,advanced,80
+10009,uuid,banking,baseline,90
+10010,uuid,banking,baseline,100
